@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRinOP.Plugins", "VRinOP.Plugins.csproj", "{0F8FB12D-3D73-400D-5273-899C3793A581}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRinOP", "VRinOP.csproj", "{2D7412D1-C475-55AB-29BB-879D28D87565}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRinOP.Editor", "VRinOP.Editor.csproj", "{DEA3F2B1-5AA4-1CCA-210E-8C9D1EB5F843}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F8FB12D-3D73-400D-5273-899C3793A581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F8FB12D-3D73-400D-5273-899C3793A581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F8FB12D-3D73-400D-5273-899C3793A581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F8FB12D-3D73-400D-5273-899C3793A581}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D7412D1-C475-55AB-29BB-879D28D87565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D7412D1-C475-55AB-29BB-879D28D87565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D7412D1-C475-55AB-29BB-879D28D87565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D7412D1-C475-55AB-29BB-879D28D87565}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEA3F2B1-5AA4-1CCA-210E-8C9D1EB5F843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEA3F2B1-5AA4-1CCA-210E-8C9D1EB5F843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEA3F2B1-5AA4-1CCA-210E-8C9D1EB5F843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEA3F2B1-5AA4-1CCA-210E-8C9D1EB5F843}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
